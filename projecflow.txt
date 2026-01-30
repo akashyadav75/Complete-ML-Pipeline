@@ -1,0 +1,5 @@
+1. Building the Model
+    > Create a github repository and clone it in the local system.
+    > Add the src folder along with all the components (Run them individaully)
+    > Add data, models and report directories to .gitignore file
+    > Now git add commit push.
